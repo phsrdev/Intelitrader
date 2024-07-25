@@ -22,6 +22,7 @@ Para resolver esse problema, é necessário descriptografar a mensagem de modo q
 ## Solução:
 
 [Clique aqui, para Solução em Python](https://colab.research.google.com/drive/1ktU69FaMwE6JMlze9qUktHw_vBC5Wfhi?usp=sharing)
+[Clique aqui, para Solução em C](https://onlinegdb.com/accIFlUip)
 
 
 # Desafio 2 - Livro de Ofertas
@@ -99,5 +100,7 @@ POSICAO | VALOR | QUANTIDADE
 ## Solução:
 
 [Clique aqui, para Solução em Python](https://colab.research.google.com/drive/1RcdD8CVI9HejgvlBfnQCxh_0Rm2-J8Vs?usp=sharing)
+[Clique aqui, para Solução em C](https://onlinegdb.com/ZvPL8piN3)
+
 -----------------------------------------------------------------------------------------------------------------------------
 
